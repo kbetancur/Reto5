@@ -1,9 +1,10 @@
 Modelo\MdCompra.class
 Modelo\MdProyecto.class
+Vista\VistaPrincipal$3.class
+Vista\VistaPrincipal$4.class
 Clases\Proyecto.class
 Controlador\CtProyecto.class
 Clases\Lider.class
-java\utilbtnExportarProyectos.class
 Vista\VistaPrincipal$2.class
 Controlador\CtLider.class
 Clases\Compra.class
