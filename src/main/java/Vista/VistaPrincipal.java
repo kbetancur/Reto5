@@ -633,7 +633,7 @@ public class VistaPrincipal extends javax.swing.JFrame {
         
         HSSFWorkbook book = new HSSFWorkbook();
         HSSFSheet sheet = book.createSheet();
-        book.setSheetName(0, "Proyectos");
+        book.setSheetName(0, "Compras");
 
         String[] headers = new String[]{
             "ID Compra",
